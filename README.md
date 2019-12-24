@@ -4,7 +4,7 @@
 Twitter Sentiment Analysis project using Python, NLTK, Tweepy, TextBlob, Twitter API interface and Nick Sander's tweets corpus to evaluate the sentiment of Netflix users about it's platform services.
 
 
-**Important Sources**
+### Important Sources
 ---
 
 Getting Nick Sander's tweets corpus!
@@ -14,7 +14,7 @@ Getting Nick Sander's tweets corpus!
 *	we will use the full-corpus.csv file.
 
 
-**Project References**
+### Project References
 ---
 
 Deitel, H., Deitel, P., & Deitel, P. J. (2019). Python for Programmers, First Edition. Retrieved from:
