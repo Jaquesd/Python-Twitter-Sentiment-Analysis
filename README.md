@@ -7,11 +7,11 @@ Twitter Sentiment Analysis project using Python, NLTK, Tweepy, TextBlob, Twitter
 **Important Sources**
 ---
 
-	Getting Nick Sander's tweets corpus!
+Getting Nick Sander's tweets corpus!
 
-	access the link https://github.com/zfz/twitter_corpus;
-	download the file;
-	we will use the full-corpus.csv file.
+access the link https://github.com/zfz/twitter_corpus;
+download the file;
+we will use the full-corpus.csv file.
 
 
 **Project References**
